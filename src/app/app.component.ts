@@ -9,7 +9,7 @@ export class AppComponent implements OnInit {
 
   list : ListModel [] = [];
   workInput : any;
-  isChecked : boolean = false;
+  isChecked : boolean = false; 
 
   ngOnInit(): void {
   }
